@@ -60,3 +60,13 @@ $RECYCLE.BIN/
 # VSCode
 .vscode/
 .history/
+
+# Unity / trash
+.utmp/
+GeneratedAssets/
+test_BackUpThisFolder_ButDontShipItWithYourGame/
+ARGame_BurstDebugInformation_DoNotShip*/
+hs_err_pid*.log
+*.log
+*.apk
+
